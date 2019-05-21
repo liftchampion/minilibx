@@ -1,7 +1,8 @@
-# **MinilibX**
+# MinilibX
 
+# **!**
 **Это неоффициальная версия библиотеки. Мной она использовалась из-за более простой компиляции.**  
-**Для использования на постоянной основе, лучше установить [эту версию](https://github.com/liftchampion/minilibx_official/tree/master)
+**Для использования на постоянной основе, лучше установить [эту версию](https://github.com/liftchampion/minilibx_official/tree/master)**
 
 
 42 (Paris)
